@@ -1,2 +1,2 @@
 # qbittorrent-auto-tracker
-A python script for updating qbittorrent tracker list
+A javascript for updating qbittorrent tracker list automatically
